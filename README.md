@@ -51,7 +51,9 @@ When the program is running, the user loads the TXT file containing the BCP of e
   <img src="/6.png">
 </p>
 
-here is my email if anyone would like to contact me : abouabdelmajidkhalil@gmail.com
+Here the link of th video simulation : https://youtu.be/Rv5gSD1nf38
+
+Here is my email if anyone would like to contact me : abouabdelmajidkhalil@gmail.com
  
 
  
