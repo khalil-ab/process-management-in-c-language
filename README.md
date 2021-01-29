@@ -29,7 +29,29 @@ It should also be noted that each process is periodic, and is characterized by i
 
 When the program is running, the user loads the TXT file containing the BCP of each process then he chooses the type of scheduling algorithm for the first case (without locked state) or second case (with locked state), he specifies the downtime (N) and then he receives the grid that summarizes how the processes will share the processor with or without I/O device during the first N units depending on the case used and on the type of algorithm chosen.  
 
+<p align="center">
+  <img src="/0.png">
+</p>
+<p align="center">
+  <img src="/1.png">
+</p>
+<p align="center">
+  <img src="/2.png">
+</p>
+<p align="center">
+  <img src="/3.png">
+</p>
+<p align="center">
+  <img src="/4.png">
+</p>
+<p align="center">
+  <img src="/5.png">
+</p>
+<p align="center">
+  <img src="/6.png">
+</p>
 
+here is my email if anyone would like to contact me : abouabdelmajidkhalil@gmail.com
  
 
  
